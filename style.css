@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    border: 2px solid blue;
+    height: 120px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+nav{
+    display: inline-block;
+    border:2px green solid;
+    margin: 5px;
+    border-radius:5px ;
+    height: 300px;
+    width: 20%;
+}
+
+main{
+    display: inline-block;
+    border:2px red solid;
+    margin: 5px;
+    border-radius:5px ;
+    height: 300px;
+    width: 75%;
+    
+}
+
+footer{
+    border: 2px solid blue;
+    height: 120px;
+    margin: 5px;
+    border-radius: 5px;
+}
